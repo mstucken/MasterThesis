@@ -1,2 +1,2 @@
 # MasterThesis
-DIsplaced SUSy
+DIsplaced SUSY
